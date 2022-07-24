@@ -21,11 +21,15 @@
 
 ## Escopo
 
-📚 Neste projeto, eu irei aprender a criar uma tela de Login utilizando o framework .Net 6 e o .Net Maui.
+📚 Neste projeto, eu irei aprender a criar uma tela de Login utilizando o framework .Net 6 e o .Net Maui. Depois, pretendo desenvolver uma aplicação completa, com comunicação com banco de dados (SQL Server) para administrar contas pessoais.
+
+Então, neste primeiro momento, irei modelar o banco de dados e criar os relacionamentos. Após concluir a primeira etapa, a próxima, será desenvolver as versões Mobile e Web (com um único código, pois o .Net Maui isso é possível). 
+
+Basicamente irei desenvolver um sistema que irá realizar um cadastro (CRUD) de pessoas (PF), contas de casa para que eu possa administrar minhas contas pessoais e administrar meus gastos pessoas (comprar muita coca-cola) 😄😄😄😄
 
 ## Foco
 
-😊 O objetivo do projeto é aprender a criar a uma tela de Login com esse framework.
+😊 O objetivo inicial do projeto é aprender a criar a uma tela de Login com esse framework. No entanto, a longo prazo, o objetivo final é desenvolver uma aplicação completa com .Net Maui.
 
 ## Prazo
 
