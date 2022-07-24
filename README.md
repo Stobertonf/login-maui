@@ -23,7 +23,7 @@
 
 📚 Neste projeto, eu irei aprender a criar uma tela de Login utilizando o framework .Net 6 e o .Net Maui. Depois, pretendo desenvolver uma aplicação completa, com comunicação com banco de dados (SQL Server) para administrar contas pessoais.
 
-Então, neste primeiro momento, irei modelar o banco de dados e criar os relacionamentos. Após concluir a primeira etapa, a próxima, será desenvolver as versões Mobile e Web (com um único código, pois o .Net Maui isso é possível). 
+Então, neste primeiro momento, irei modelar o banco de dados e criar os relacionamentos. Após concluir a primeira etapa, a próxima, será desenvolver as versões Mobile e Web (com um único código, pois com o .Net Maui isso é possível). 
 
 Basicamente irei desenvolver um sistema que irá realizar um cadastro (CRUD) de pessoas (PF), contas de casa para que eu possa administrar minhas contas pessoais e administrar meus gastos pessoas (comprar muita coca-cola) 😄😄😄😄
 
