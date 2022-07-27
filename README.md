@@ -42,8 +42,9 @@ Neste momento estou disponibilizando somente a imagem do início da modelagem do
 
 
 <p float="left">
- <img src= https://i.ibb.co/TT1PHYC/Maui.jpg width="40% />
  <img src= https://i.ibb.co/DkJRNHY/Modelagem-App-Contas.jpg width="40%" />
+ <img src= https://i.ibb.co/TT1PHYC/Maui.jpg width="40% />
+ 
 </p> 
                                                                        
                                                                        
