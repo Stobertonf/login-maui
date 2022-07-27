@@ -37,9 +37,11 @@ Basicamente irei desenvolver um sistema que irá realizar um cadastro (CRUD) de 
 
 ## Imagens
 
-Neste momento ainda ainda não possuo imangens para disponibilizar. No entanto, em breve espero trazer muitas novidades para este repositório.
-<img src= https://ibb.co/B6TFyy5.jpg width="40%" />
-<img src= https://ibb.co/BPGTgc1.jpg width="40%" />
-<img src= https://ibb.co/G3zPkqT.jpg width="40%" />
+Neste momento estou disponibilizando somente a imagem do início da modelagem do Bando de dados. Para fazer a mesma, estou utilizando o MySQL Workbench.
+
+<img src="https://i.ibb.co/TT1PHYC/Maui.jpg" width="40% />
 <img src= https://i.ibb.co/DkJRNHY/Modelagem-App-Contas.jpg width="40%" />
+
+
+Em breve novas imagens vão ser disponibilizadas.
 
