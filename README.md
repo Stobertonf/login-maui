@@ -39,7 +39,7 @@ No entanto, não irei parar por ai, após ter a APP rodando na plataforma .Net, 
 
 ## Imagens
 
-Neste momento estou disponibilizando a imagem do início do Projeto e da modelagem do Bando de dados. Para fazer a mesma, estou utilizando o MySQL Workbench.
+Neste momento estou disponibilizando a imagem do início do Projeto e da modelagem do Banco de dados. Para fazer a mesma, estou utilizando o MySQL Workbench.
 
  <img src= https://i.ibb.co/TT1PHYC/Maui.jpg />
  <img src= https://i.ibb.co/DkJRNHY/Modelagem-App-Contas.jpg />                                                         
