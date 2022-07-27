@@ -37,7 +37,7 @@ Basicamente irei desenvolver um sistema que irá realizar um cadastro (CRUD) de 
 
 ## Imagens
 
-Neste momento estou disponibilizando a imagem do início da modelagem do Bando de dados e do Projeto. Para fazer a mesma, estou utilizando o MySQL Workbench.
+Neste momento estou disponibilizando a imagem do início do Projeto e da modelagem do Bando de dados. Para fazer a mesma, estou utilizando o MySQL Workbench.
 
  <img src= https://i.ibb.co/TT1PHYC/Maui.jpg />
  <img src= https://i.ibb.co/DkJRNHY/Modelagem-App-Contas.jpg />                                                         
