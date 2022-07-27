@@ -25,7 +25,9 @@
 
 Então, neste primeiro momento, irei modelar o banco de dados e criar os relacionamentos. Após concluir a primeira etapa, a próxima, será desenvolver as versões Mobile e Web (com um único código, pois com o .Net Maui isso é possível). 
 
-Basicamente irei desenvolver um sistema que irá realizar um cadastro (CRUD) de pessoas (PF), contas de casa para que eu possa administrar minhas contas pessoais e administrar meus gastos pessoas (comprar muita coca-cola) 😄😄😄😄
+Basicamente irei desenvolver um sistema que irá realizar um cadastro (CRUD) de pessoas (PF), contas de casa para que eu possa administrar minhas contas pessoais e administrar meus gastos pessoais (comprar muita coca-cola) 😄😄😄😄
+
+No entanto, não irei parar por ai, após ter a APP rodando na plataforma .Net, será desenvolvido (para fins de estudos) em Dart, utilizando o framework Flutter. No entanto, talvez eu mude o banco de dados para o Firebase.
 
 ## Foco
 
