@@ -27,7 +27,7 @@ Então, neste primeiro momento, irei modelar o banco de dados e criar os relacio
 
 Basicamente irei desenvolver um sistema que irá realizar um cadastro (CRUD) de pessoas (PF), contas de casa para que eu possa administrar minhas contas de casa e meus gastos pessoais (comprar muita coca-cola) 😄😄😄😄
 
-No entanto, não irei parar por ai, após ter a APP rodando na plataforma .Net, será desenvolvido (para fins de estudos) em Dart, utilizando o framework Flutter. No entanto, talvez eu mude o banco de dados para o Firebase.
+No entanto, não irei parar por ai, após ter a APP rodando na plataforma .Net, será desenvolvido (para fins de estudos) em Dart, utilizando o framework Flutter. Porém, talvez eu mude o banco de dados para o Firebase.
 
 ## Foco
 
