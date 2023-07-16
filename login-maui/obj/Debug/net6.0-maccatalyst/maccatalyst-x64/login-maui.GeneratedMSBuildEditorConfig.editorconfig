@@ -5,35 +5,36 @@ build_property.UsingMicrosoftNETSdkWeb =
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = login_maui
-build_property.ProjectDir = D:\Ajuda\Cursos\.Net Maui\login-maui\login-maui\
+build_property.ProjectDir = C:\Program Files\Ajuda\Cursos\Maui\Udemy\Projetos\Projetos\login-maui\login-maui\
 
-[D:/Ajuda/Cursos/.Net Maui/login-maui/login-maui/App.xaml]
+[C:/Program Files/Ajuda/Cursos/Maui/Udemy/Projetos/Projetos/login-maui/login-maui/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = login_maui.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/Ajuda/Cursos/.Net Maui/login-maui/login-maui/AppShell.xaml]
+[C:/Program Files/Ajuda/Cursos/Maui/Udemy/Projetos/Projetos/login-maui/login-maui/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = login_maui.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/Ajuda/Cursos/.Net Maui/login-maui/login-maui/MainPage.xaml]
+[C:/Program Files/Ajuda/Cursos/Maui/Udemy/Projetos/Projetos/login-maui/login-maui/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = login_maui.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[D:/Ajuda/Cursos/.Net Maui/login-maui/login-maui/Resources/Styles/Colors.xaml]
+[C:/Program Files/Ajuda/Cursos/Maui/Udemy/Projetos/Projetos/login-maui/login-maui/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = login_maui.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/Ajuda/Cursos/.Net Maui/login-maui/login-maui/Resources/Styles/Styles.xaml]
+[C:/Program Files/Ajuda/Cursos/Maui/Udemy/Projetos/Projetos/login-maui/login-maui/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = login_maui.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

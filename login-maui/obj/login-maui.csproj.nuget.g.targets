@@ -83,7 +83,7 @@
     <Import Project="$(NuGetPackageRoot)xamarin.android.glide\4.12.0.8\buildTransitive\net6.0-android31.0\Xamarin.Android.Glide.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.android.glide\4.12.0.8\buildTransitive\net6.0-android31.0\Xamarin.Android.Glide.targets')" />
   </ImportGroup>
   <ImportGroup Condition=" '$(TargetFramework)' == 'net6.0-windows10.0.19041.0' AND '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="D:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\microsoft.windows.sdk.buildtools\10.0.22000.194\build\Microsoft.Windows.SDK.BuildTools.targets" Condition="Exists('D:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\microsoft.windows.sdk.buildtools\10.0.22000.194\build\Microsoft.Windows.SDK.BuildTools.targets')" />
-    <Import Project="$(NuGetPackageRoot)microsoft.windowsappsdk\1.1.0\buildTransitive\Microsoft.WindowsAppSDK.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.windowsappsdk\1.1.0\buildTransitive\Microsoft.WindowsAppSDK.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.windows.sdk.buildtools\10.0.22000.194\build\Microsoft.Windows.SDK.BuildTools.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.windows.sdk.buildtools\10.0.22000.194\build\Microsoft.Windows.SDK.BuildTools.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.windowsappsdk\1.1.5\buildTransitive\Microsoft.WindowsAppSDK.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.windowsappsdk\1.1.5\buildTransitive\Microsoft.WindowsAppSDK.targets')" />
   </ImportGroup>
 </Project>

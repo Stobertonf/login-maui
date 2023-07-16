@@ -1,0 +1,1 @@
+C:\Program Files\Ajuda\Cursos\Maui\Udemy\Projetos\Projetos\login-maui\login-maui\login-maui.csproj;x64
